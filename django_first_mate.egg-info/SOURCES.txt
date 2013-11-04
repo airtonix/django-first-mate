@@ -1,0 +1,9 @@
+django_first_mate.egg-info/PKG-INFO
+django_first_mate.egg-info/SOURCES.txt
+django_first_mate.egg-info/dependency_links.txt
+django_first_mate.egg-info/top_level.txt
+first_mate/__init__.py
+first_mate/models.py
+first_mate/management/__init__.py
+first_mate/management/commands/__init__.py
+first_mate/management/commands/compass.py
